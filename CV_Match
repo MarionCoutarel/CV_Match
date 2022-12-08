@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T20:19:29.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="FZxwdciZTLG8-pFWIbRP" version="20.6.0" type="onedrive"><diagram id="NGk-m6l48AXDhdWsH1Dh" name="Page-1">7Vlbc6IwFP41PtYhBAQevdDW3a12F7eXRwaiZIrEwVi1v36TEgQSXK1bLzNbZtpJDuEk+c53Pg6xAbvT1U3qz6I7EqK4oWuTFIcN2GvoOmB/zDDzJ6hi4CM8/JYbNWFd4BDNKwMpITHFs6oxIEmCAlqx+WlKltVhYxKry/ACP0aK9RGHNMqstm4V9luEJ1E+EWg52Z2pnw8WC59HfkiWJRN0G7CbEkKz1nTVRTFHJscle+56y93NwlKU0H0euKcxddbXLz9dy0BoYCRB6l4JL69+vBAb/jbsMEPP9bq/+vej/nAgVk/XOSTLCFPkzfyA95cspg3Yieg0Zj3Amv58luE+xivE5u6IKVBK0Wrr2sEGEcYTRKaIpms2RDxgCgzXWdcR3WUREZDDHJWjkRt9EfTJxnMBFGsIrD6Am67g1veGP9ojlxm/u8/s/+PwV89TsEvJIgk5Kj2NIbMDyc8HTm/tiVzrWMBBBTgFI5YoM94cx2jV5hnLoEBJKJq9IPbncxxUoariilaYPvF2E9qO6D/zkU0NQtHvrUqDe+tS5x6lmG0WpbktYRsX7iw7N3B/V1rukFsKj++9dbkn+8w2jcKJLDNSYBkwZJEGaHcKUz+dILqLsipRSkwwa4iQ21IU+xS/Vpdbxw4xwz3BbCMbHtpmPQ9zD9kuxUNlEZP8ACg5ApKjDAbF0TtXN7s+nL6GQl/36bb92xv1H3jqdx8uQi31Kkh1cgnq5FIG89Oy3lRgq4ik5rmDkTvouhcgmLqkmOa5FbP1pZgfUcxzKZxpgSYETnFVaaSZTcfQigsepn+mJdHTcJpO+bJOKofWKbh56ZEHthQT22mah4VXqddUV0eOqP0VUeYGSGFwDixXDPltIjs6cjQdJZrXi7c3DuSdT4NICe0ZihWo7f5EsWtCbR/rfZvH/v9OAWhUwwLNA1MAwo2E5a5OnARAPeR4Zz9OJhdTsstZYIBzZ4F6wnGDeFiz86ERpgytsxfrWzh6tlodnOZ4Y1Nel0trjaXZjrpaFPmgVOBrTcv8a32/r1Dtc1IhwNh5VAHOKn269NI2Dj2s0K0tSX0q4VM/uxt6RyEkyz9apducpuQFdUlM+NdXQhI2sjPGcSyZ/BhPEs5ZRgX+odbh2YwDP26LG1MchnyaWi2oeyH+kxxIcENdlYNWDW3gx9WAdYuD+yxcxW8b0P0D</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-08T10:16:39.536Z" agent="5.0 (Windows)" etag="NZdlC8KlQ8BzIbFcxVia" version="20.6.0" type="github">
+  <diagram id="NGk-m6l48AXDhdWsH1Dh" name="Page-1">
+    <mxGraphModel dx="1022" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ptlt9yFkQE74eeN4ncrE-1" value="JOB DESCRIPTION" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="50" y="90" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptlt9yFkQE74eeN4ncrE-2" value="ISOLATE KEY WORDS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptlt9yFkQE74eeN4ncrE-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.389;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.378;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Ptlt9yFkQE74eeN4ncrE-1" target="Ptlt9yFkQE74eeN4ncrE-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="85" y="260" as="sourcePoint" />
+            <mxPoint x="135" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ptlt9yFkQE74eeN4ncrE-4" value="EXHAUSTIVE CV" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="525" y="90" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptlt9yFkQE74eeN4ncrE-5" value="KEY WORDS SENTENCES" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptlt9yFkQE74eeN4ncrE-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.389;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.378;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="571.3199999999999" y="205.94000000000003" as="sourcePoint" />
+            <mxPoint x="570" y="249.99999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ptlt9yFkQE74eeN4ncrE-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="289.5" as="sourcePoint" />
+            <mxPoint x="250" y="289.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ptlt9yFkQE74eeN4ncrE-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="290" as="sourcePoint" />
+            <mxPoint x="420" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ptlt9yFkQE74eeN4ncrE-9" value="Fuzzy Match" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="300" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptlt9yFkQE74eeN4ncrE-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="350" as="sourcePoint" />
+            <mxPoint x="339.5" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ptlt9yFkQE74eeN4ncrE-11" value="Matching CV" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="300" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptlt9yFkQE74eeN4ncrE-12" value="Get JOB Title" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptlt9yFkQE74eeN4ncrE-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="Ptlt9yFkQE74eeN4ncrE-12" target="Ptlt9yFkQE74eeN4ncrE-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="460" as="sourcePoint" />
+            <mxPoint x="270" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ptlt9yFkQE74eeN4ncrE-15" value="+" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8zX7QOVDaBOQKpWA_Xvy-1" value="MASTER CV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
